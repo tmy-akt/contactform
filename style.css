@@ -1,0 +1,43 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h1{margin:0 auto;
+    border-left:4px solid red;
+    background-color:lightgray;
+    margin-top:30px;
+    margin-bottom:40px;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:12px;
+    width:50%;
+}
+
+form{margin:0 auto;
+    border:3px solid lightgray;
+    border-radius:10px;
+    width:50%;
+    background-color:whitesmoke
+}
+
+div{
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:15px;
+}
+
+.text, .textarea, .dropdown{
+    border:1px solid  #dfdfdf;
+    padding:5px;
+    color:#999;
+    background-color:#fff;
+}
+
+.submit{
+    border:1px solid lightgray;
+    border-bottom:2px solid gray;
+    border-radius:2px;
+    background-color:lightgray;
+    padding:5px;
+    color:white;
+}
